@@ -57,6 +57,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        record: {
+          DEFAULT: "hsl(var(--record))",
+          hover: "hsl(var(--record-hover))",
+          active: "hsl(var(--record-active))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
