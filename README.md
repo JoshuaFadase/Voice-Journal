@@ -11,7 +11,7 @@ coherent and quick way. There are probably already some variations of this avail
 
 <h1>How to use</h1>
   
-Press and hold the record button and them speak into your device's microphone then release the button. Give your entry a name.
+Press and hold the record button and them speak into your device's microphone then release the button. Give your entry a name then hit save entry
 
 <h1>Upcoming features</h1>
   
