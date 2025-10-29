@@ -1,6 +1,6 @@
 <h1> Voice Journal: A hold-to-speak virtual diary</h1> 
   
-This is a simple hold-to-speak note-taking/jornalling app that records users and transcribes their words into text then stores the text as entries. It is mainly for people like scientists or Journalists to 
+This is a simple hold-to-speak note-taking jornalling app that records users and transcribes their words into text then stores the text as entries. It is mainly for people like scientists or Journalists to 
 keep track of progress on a project more seamlessly. Disclaimer: The idea is mine but the code is written entirely by Lovable AI since I don't know anything about voice to text or speech recognition programming. 
 I used this as a project to learn some prompt enginnering.
 
