@@ -7,7 +7,7 @@ I used this as a project to learn some prompt enginnering.
 <h1>Target users</h1>
   
 This can be helpful to people in a wide variety of proffesions such as scientists, medical proffesionsals, journalists, reporters and any one who needs a simple way to organize their thoughts or progress in a 
-coherent and quick way. There are probably already some variations of this available but they do not work the same way I intend for this to work.
+coherent and quick way. There are probably already some variations of this available but they do not work the same way I intend for this to work (Like a digital version of tape recorders that saves entries as text)
 
 <h1>How to use</h1>
   
