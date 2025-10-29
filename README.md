@@ -16,5 +16,5 @@ Press and hold the record button and them speak into your device's microphone th
 <h1>Upcoming features</h1>
   
 1. Text customiztion such as font. colour etc
-2. ablity to export text files from the app 
+2. Ablity to export text files from the app 
 3. Connect to NoteSum
